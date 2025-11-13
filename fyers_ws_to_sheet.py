@@ -7,7 +7,7 @@ APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxGGQO1FEdO2aw9toOu0U
 # ========================
 
 # Choose your option symbols
-SYMBOLS = ["NFO:NIFTY24NOV24000CE", "NFO:NIFTY24NOV24000PE"]
+SYMBOLS = ["NFO:NIFTY25N1825900CE"]
 
 def post_to_sheet(payload):
     try:
