@@ -1,9 +1,9 @@
 import json, time, requests, websocket
 
 # === Fill these three ===
-FY_APP_ID = "YOUR_APP_ID"
-FY_ACCESS_TOKEN = "YOUR_ACCESS_TOKEN"
-APPS_SCRIPT_URL = "https://script.google.com/macros/s/XXXXXXXX/exec"
+FY_APP_ID = "BSB3DBZ2GL-100"
+FY_ACCESS_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiZDoxIiwiZDoyIiwieDowIiwieDoxIiwieDoyIl0sImF0X2hhc2giOiJnQUFBQUFCcEZYeXAtN2FYZWVkanBhbl9KeTR2NkRtRS1tOXNtVHJJa2w1czNzallBTnhsY0tDS2wyUTlheVBvNFFMMmNJYmNkMEZkR1B2MXJnb0Y4aFBYVk5WQWNHVXBVdGl0dDZReTJmOGZ0NDF2QzFUZ2hBOD0iLCJkaXNwbGF5X25hbWUiOiIiLCJvbXMiOiJLMSIsImhzbV9rZXkiOiI4NGE3M2QyN2FhMGZkMTYyZjE1ODExYTE5MmMxMWI2NzlkZTI4YTYzZGQzYzM2NzYwYTJkYmFlMiIsImlzRGRwaUVuYWJsZWQiOiJOIiwiaXNNdGZFbmFibGVkIjoiTiIsImZ5X2lkIjoiWFYyOTY5NiIsImFwcFR5cGUiOjEwMCwiZXhwIjoxNzYzMDgwMjAwLCJpYXQiOjE3NjMwMTU4NDksImlzcyI6ImFwaS5meWVycy5pbiIsIm5iZiI6MTc2MzAxNTg0OSwic3ViIjoiYWNjZXNzX3Rva2VuIn0.eUZZNSzQ3csXf3CLVit-cU1HJ2tUsrgMtS9QH-A2aF0"
+APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxGGQO1FEdO2aw9toOu0UZzXRGnSkHjAALelcwMXR2uLz1AVyBqgMvAhd6ztbd5pS7x/exec"
 # ========================
 
 # Choose your option symbols
